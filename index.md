@@ -31,6 +31,6 @@ A full length Curriculum Vita can be accessed via [this link](https://github.com
 ### Contact Information
 
 - Julia A. Moffitt, PhD
-- moffitt.julie@gmail.com
-- https://www.linkedin.com/in/julia-moffitt-2014a53/
-- https://twitter.com/jamoffitt
+- [e-mail](moffitt.julie@gmail.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/julia-moffitt-2014a53/)
+- [twitter Profile](https://twitter.com/jamoffitt)
