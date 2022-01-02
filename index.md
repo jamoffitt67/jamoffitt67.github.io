@@ -7,6 +7,7 @@ The following portfolio includes a compilation of research projects I've conduct
 
 - Amazon Stock Forecasting / Time Series Analysis Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/ad1f0adbf8dcf670e4a7a550b551cbde5f0ed41d/Amazon_Stock_Project_Time_Series_PF.ipynb)
 - Street View Housing Number Image Recognition / Deep Learning using CNN: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/f3524873b9821502743b54be20b181b5c8dfd339/CNN_Project_SVHN_PF.ipynb)
+- Amazon Recommendation Systems / Comparison and Analysis of Various Recommendation System Performance: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/237f3589eb018c249bc148b62274d389c595a264/Amazon_Recommendation_System_PF.ipynb)
 - Target Customer Classification / Decision Trees and Random Forests: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0f563df8428e368fee922da06b9c75684142f635/Classification_Decision_Tree_Random_Forests_PF.ipynb)
 - Boston Housing Prediction / Linear Regression Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/3b4945b507e96735f04cc0ea0c967ea7c3fca7c1/Boston_house_price_prediction_pf%20(1).ipynb)
 - Hotel Cancelation Prediction / Classification Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/911d9bfa8e69cacd34581273895c59a583cee566/Project_Classification_Hotel_Cancelation_PF%20(1).ipynb)
