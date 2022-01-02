@@ -1,4 +1,5 @@
 ## Julia A. Moffitt, PhD
+Physiologist, Data Scientist
 **Professional Portfolio**
 
 You can use the [editor on GitHub](https://github.com/jamoffitt67/jamoffitt67.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -8,7 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Data Science Projects
 
 1. Boston Housing Prediction Linear Regression Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0119d0ca89f5bcd85d626067e3a0c4f7612d12a7/Boston_house_price_prediction_pf.ipynb)
-2. 
+
+
+
 ```markdown
 Syntax highlighted code block
 
