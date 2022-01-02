@@ -7,8 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Data Science Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+1. 1. Boston Housing Prediction Linear Regression Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0119d0ca89f5bcd85d626067e3a0c4f7612d12a7/Boston_house_price_prediction_pf.ipynb
+2. 
 ```markdown
 Syntax highlighted code block
 
@@ -18,8 +18,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-### Data Science Projects
-1. Boston Housing Prediction Linear Regression Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0119d0ca89f5bcd85d626067e3a0c4f7612d12a7/Boston_house_price_prediction_pf.ipynb)
+
 2. List
 
 **Bold** and _Italic_ and `Code` text
