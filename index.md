@@ -5,8 +5,10 @@ The following portfolio includes a compilation of research projects I've conduct
 
 ### Data Science Projects
 
-- Boston Housing Prediction / Linear Regression Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0119d0ca89f5bcd85d626067e3a0c4f7612d12a7/Boston_house_price_prediction_pf.ipynb)
-- Hotel Cancelation Prediction / Classification Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/4299e9e4df3656cb15f3508447445ecc83e96931/Project_Classification_Hotel_Cancelation_PF.ipynb)
+- Boston Housing Prediction / Linear Regression Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/3b4945b507e96735f04cc0ea0c967ea7c3fca7c1/Boston_house_price_prediction_pf%20(1).ipynb)
+- Hotel Cancelation Prediction / Classification Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/911d9bfa8e69cacd34581273895c59a583cee566/Project_Classification_Hotel_Cancelation_PF%20(1).ipynb)
+- Fuel Economy of Older Automobiles / PCA and tSNE Exploration: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/668415aa6991a606b6be1dfb3ca4f5193e4477ba/PCA_tSNE_MPG_explore_PF.ipynb)
+- Customer Classification / Comparision of Clustering Techniques: [Jupyter Notebook](
 
 ### Peer-Reviewed Publications & Patents
 
