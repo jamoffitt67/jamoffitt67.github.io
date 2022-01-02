@@ -9,9 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 1. Boston Housing Prediction Linear Regression Project: [Jupyter Notebook](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0119d0ca89f5bcd85d626067e3a0c4f7612d12a7/Boston_house_price_prediction_pf.ipynb)
 
-### Peer-Reviewed Publications
+### Peer-Reviewed Publications & Patents
 
-See a listing of select publications at [Research Gate](https://www.researchgate.net/profile/Julia-Moffitt/research)
+See a listing of select publications and patents at [Research Gate](https://www.researchgate.net/profile/Julia-Moffitt/research)
+Listing of most research publications from [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=(cardio)%20AND%20(Moffitt%2C%20JA%5BAuthor%5D)&sort=date)
+Listing of Published US Patents from [USPTO](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Moffitt&FIELD1=INNM&co1=AND&TERM2=Cardiac+Pacemakers&FIELD2=ASNM&d=PTXT)
+
+### Full Curriculum Vita
+
+A full length Curriculum Vita can be accessed via [this link](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/4751f561afc845b35d813a0297646dbc10208657/JuliaAMoffittCV%20Current%2012.1.21.pdf)
 
 ```markdown
 Syntax highlighted code block
