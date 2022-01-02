@@ -1,7 +1,7 @@
 ## Julia A. Moffitt, PhD
 **Physiologist, Data Scientist**
 
-The following portfolio includes a compilation of research projects I've conducted, written and published as a physiologist and several recent data science projects I've completed.  I am currently blending these two areas of experience and interest in a project investigating the analysis of pacing behavior in ultramarathon runners.   Ongoing research efforts in Heart Rate Variability analysis in humans is continuing as well.  A link to my full-length CV is provided below.  Feel free to explore links for examples of my work in all these areas.  
+The following portfolio includes a compilation of research projects I've conducted and published as a physiologist and several recent data science projects I've completed.  I am currently blending these two areas of experience and interest in a project investigating the analysis of pacing behavior in ultramarathon runners.   Ongoing research efforts in Heart Rate Variability analysis in humans is continuing as well.  A link to my full-length CV is provided below.  Feel free to explore links for examples of my work in all these areas.  
 
 ### Data Science Projects
 
@@ -21,7 +21,8 @@ The following portfolio includes a compilation of research projects I've conduct
 
 ### Current Ongoing Research Projects
 - Exploring the mechanisms responsible for changes in Heart Rate Variability during Exercise: [Abstract](https://digitalcommons.wku.edu/ijesab/vol11/iss7/36/); [Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/96c91f6bcc84fdfd34c489776dfc8f3d402456c4/Stevens%20Pham%20Le%20CSACSM%20Poster%20.pdf)
-- Investigating pacing behavior in ultramarathon distance running: [Abstract](https://journals.lww.com/acsm-msse/Fulltext/2021/08001/Women_Pace_Better_Than_Men_In_A_100_mile_Distance.108.aspx)
+- Investigating pacing behavior in ultramarathon distance running: [Abstract](https://journals.lww.com/acsm-msse/Fulltext/2021/08001/Women_Pace_Better_Than_Men_In_A_100_mile_Distance.108.aspx); [e-Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0805888d0e508bc704e7452c6fb738d92110e5fd/ACSM%20Conference%20Poster%20FINAL%202021.pdf)
+- Effects of endurance training on reducing cardiac arrhythmic risk: [Abstract](https://journals.lww.com/acsm-msse/Fulltext/2014/05001/Exercise_Training_Results_in_Reduced_Arrhythmic.2024.aspx); [Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/d5afde8a79ee271431fb3bdc76443fdfc5bea512/ACSM%202014%20Poster.pdf)
 
 ### Full Curriculum Vita
 
