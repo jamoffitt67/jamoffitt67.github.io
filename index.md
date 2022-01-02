@@ -1,7 +1,7 @@
 ## Julia A. Moffitt, PhD
 **Physiologist, Data Scientist**
 
-The following is a listing of research projects I've conducted, written and published as a physiologist and several recent Data Science projects I've completed.  I am currently blending these two areas of experience and interest in a project investigating the analysis of pacing behavior in ultramarathon runners.   Ongoing research efforts in Heart Rate Variability analysis in humans is continuing as well.  A link to my full-length CV is provided below.  
+The following portfolio includes a compilation of research projects I've conducted, written and published as a physiologist and several recent data science projects I've completed.  I am currently blending these two areas of experience and interest in a project investigating the analysis of pacing behavior in ultramarathon runners.   Ongoing research efforts in Heart Rate Variability analysis in humans is continuing as well.  A link to my full-length CV is provided below.  Feel free to explore links for examples of my work in all these areas.  
 
 ### Data Science Projects
 
@@ -20,7 +20,7 @@ The following is a listing of research projects I've conducted, written and publ
 
 ### Full Curriculum Vita
 
-A full length Curriculum Vita can be accessed via [this link](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/4751f561afc845b35d813a0297646dbc10208657/JuliaAMoffittCV%20Current%2012.1.21.pdf)
+A full length Curriculum Vita can be accessed via [this link](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/4751f561afc845b35d813a0297646dbc10208657/JuliaAMoffittCV%20Current%2012.1.21.pdf).
 
 
 ### Contact Information
