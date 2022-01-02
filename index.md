@@ -20,7 +20,7 @@ The following portfolio includes a compilation of research projects I've conduct
 - Listing of published US Patents from [USPTO](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Moffitt&FIELD1=INNM&co1=AND&TERM2=Cardiac+Pacemakers&FIELD2=ASNM&d=PTXT)
 
 ### Current Ongoing Research Projects
-- Exploring the mechanisms responsible for changes in Heart Rate Variability during Exercise: [Abstract](https://digitalcommons.wku.edu/ijesab/vol11/iss7/36/)
+- Exploring the mechanisms responsible for changes in Heart Rate Variability during Exercise: [Abstract](https://digitalcommons.wku.edu/ijesab/vol11/iss7/36/); [Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/96c91f6bcc84fdfd34c489776dfc8f3d402456c4/Stevens%20Pham%20Le%20CSACSM%20Poster%20.pdf)
 - Investigating pacing behavior in ultramarathon distance running: [Abstract](https://journals.lww.com/acsm-msse/Fulltext/2021/08001/Women_Pace_Better_Than_Men_In_A_100_mile_Distance.108.aspx)
 
 ### Full Curriculum Vita
