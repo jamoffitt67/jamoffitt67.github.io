@@ -17,7 +17,7 @@ an **ARIMA predictive model** to accurately forecast Amazon stock
 prices over a period of two years.
 
 ### [Street View Housing Number Image Recognition](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/f3524873b9821502743b54be20b181b5c8dfd339/CNN_Project_SVHN_PF.ipynb) <i style="font-size:0.8em">Deep Learning</i>
-Deep Learning is an extremely valuable tool for automating
+Deep Learning is powerful analytical tool for automating
 traditionally human tasks. In this project, I use `TensorFlow` to
 create and train a **Convolutional Neural Network (CNN)** to
 recognize digits in images.
@@ -37,9 +37,7 @@ upskill or reskill.
 Using `statsmodels`, I develop a robust **multivariate linear
 regression model** to predict property values in Boston based on a
 host of variables, including water quality, pupil-to-teacher ratio,
-proximity to the Charles River, and others. *(Maybe something here
-about the importance of carefully defining and treating variables
-so we don't end up with "socioeconomic status" bullshit)*
+proximity to the Charles River, and others. This project revealed inherent bias in many housing classification and valuation models. Contextual use of these data must be given careful consideration.
 
 ### [Hotel Cancelation Prediction](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/911d9bfa8e69cacd34581273895c59a583cee566/Project_Classification_Hotel_Cancelation_PF%20(1).ipynb) <i style="font-size:0.8em">Classification Methods</i>
 With `sklearn`, I use a **k-nearest neighbors (KNN) classification
