@@ -2,17 +2,11 @@
 **Physiologist, Data Scientist**
 
 The following portfolio includes a compilation of research projects
-I've conducted and published as a physiologist and several recent
-data science projects I've completed. I am currently blending
-these two areas of experience and interest in a project
-investigating the analysis of pacing behavior in ultramarathon runners. Ongoing research efforts in Heart Rate Variability
-analysis in humans is continuing as well. A link to my full-length
-CV is provided below. Feel free to explore links for examples of my work in all these areas. 
-
-*(Maybe put things here about the importance of measured, sensible,
-and socially-conscious data science? I think it's good to tell 
-people you'll pay careful attention to biases inherent to modern
-data science and work to fight them!)*
+I've conducted and published as a physiologist including several recent
+data science projects. I am currently blending
+these two areas of experience and interest in a research project
+investigating the analysis of pacing behavior in ultramarathon runners. I am finding that my analytical experiences in bench science are advantageous in designing a rigorous approach to formulating and testing data science hypotheses and interpreting the outcomes within the context of appropriate statistical methods.  Additionally, it is exciting to employ and leverage these new, powerful analytical tools in answering some of the big questions facing society today.  My hope is to work within the intersection of these two areas to improve the health and well-being of individuals across all spectrums of society.  I am always immediately mindful of the biases and challenges inherent in developing ethical models and analytical tools and working to ensure these factors are considered and minimized as much as possible.  A link to my full-length
+CV and more current research efforts are provided below. Feel free to explore links for examples of my work in all these areas. 
 
 ## Data Science Projects
 
@@ -51,19 +45,19 @@ With `sklearn`, I use a **k-nearest neighbors (KNN) classification
 algorithm** to identify potential hotel reservation cancellations
 ahead of time.
 
-### [Fuel Economy of Older Automobiles](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/668415aa6991a606b6be1dfb3ca4f5193e4477ba/PCA_tSNE_MPG_explore_PF.ipynb) <i style="font-size:0.8em">Similarity Measures</i>
+### [Fuel Economy of Early Model Automobiles](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/668415aa6991a606b6be1dfb3ca4f5193e4477ba/PCA_tSNE_MPG_explore_PF.ipynb) <i style="font-size:0.8em">Similarity Measures</i>
 Using **t-distributed stochastic neighbor embedding (t-SNE)** and
 **k-nearest neighbor (KNN)** algorithms, I investigate the
 relationships between fuel economy, engine displacement, horsepower,
-and other variables across a car dataset.
+and other variables of interest in early model automobiles.
 
 ## Peer-Reviewed Publications & Patents
 
-- See a listing of select publications and patents at [Research Gate](https://www.researchgate.net/profile/Julia-Moffitt/research)
-- Listing of most research publications from [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=(cardio)%20AND%20(Moffitt%2C%20JA%5BAuthor%5D)&sort=date)
-- Listing of published US Patents from [USPTO](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Moffitt&FIELD1=INNM&co1=AND&TERM2=Cardiac+Pacemakers&FIELD2=ASNM&d=PTXT)
+- Select publications and patents at [Research Gate](https://www.researchgate.net/profile/Julia-Moffitt/research)
+- Research publications from [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=(cardio)%20AND%20(Moffitt%2C%20JA%5BAuthor%5D)&sort=date)
+- Published US Patents from [USPTO](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Moffitt&FIELD1=INNM&co1=AND&TERM2=Cardiac+Pacemakers&FIELD2=ASNM&d=PTXT)
 
-## Current Ongoing Research Projects
+## Current Research Projects
 - *Exploring the mechanisms responsible for changes in Heart Rate Variability during Exercise* ([Abstract](https://digitalcommons.wku.edu/ijesab/vol11/iss7/36/), [Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/96c91f6bcc84fdfd34c489776dfc8f3d402456c4/Stevens%20Pham%20Le%20CSACSM%20Poster%20.pdf))
 - *Investigating pacing behavior in ultramarathon distance running* ([Abstract](https://journals.lww.com/acsm-msse/Fulltext/2021/08001/Women_Pace_Better_Than_Men_In_A_100_mile_Distance.108.aspx), [e-Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0805888d0e508bc704e7452c6fb738d92110e5fd/ACSM%20Conference%20Poster%20FINAL%202021.pdf))
 - *Effects of endurance training on reducing cardiac arrhythmic risk* ([Abstract](https://journals.lww.com/acsm-msse/Fulltext/2014/05001/Exercise_Training_Results_in_Reduced_Arrhythmic.2024.aspx), [Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/d5afde8a79ee271431fb3bdc76443fdfc5bea512/ACSM%202014%20Poster.pdf))
