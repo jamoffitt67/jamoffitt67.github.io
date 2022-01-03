@@ -1,5 +1,6 @@
 # Julia A. Moffitt, PhD
-**Physiologist, Data Scientist**
+**Physiologist, Data Scientist**<br />
+moffitt.julie@gmail.com
 
 The following portfolio includes a compilation of research projects
 I've conducted and published as a physiologist including several recent
