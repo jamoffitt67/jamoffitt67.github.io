@@ -13,7 +13,7 @@ these two areas of experience and interest in development of a deep learning mod
 Using `Matplotlib`, `Seaborn` and `Keras`, I explore and prepare 20,929 color images of erythrocytes used for model development in the automatic detection of malaria. Susequent model development was carrieed out in Part II below.    
 
 ### [Deep Learning Model Development for Detection of Malaria from RBC Images - Part II: Model Development](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/8bead3dedf23f2a72e6beca0a7b24bedf35f6f76/Part%20II_Optimization%20of%20CNN%20model%20for%20automatic%20detection%20of%20malaria.ipynb)<i style="font-size:0.8em"> CNN Model Development</i>  
-Using `TensorFlow`, `Keras` and `Scikit Learn`, I explore 7 different deep learning approaches to develop a CNN model that uses images of red blood cells to detect malaria with 99% accuracy, 99% precision and 99% recall. 
+Using `TensorFlow` and `Keras` I explore 7 different deep learning approaches to develop a convoluted neural network (CNN) model that uses color images of red blood cells to detect malaria with 99% accuracy, 99% precision and 99% recall. 
 
 ### [Amazon Stock Forecasting](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/ad1f0adbf8dcf670e4a7a550b551cbde5f0ed41d/Amazon_Stock_Project_Time_Series_PF.ipynb) <i style="font-size:0.8em">Time Series Analysis</i>
 Using `sklearn`, `pandas`, `numpy`, and `statsmodels`, I train
