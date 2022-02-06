@@ -9,10 +9,10 @@ these two areas of experience and interest in development of a deep learning mod
 
 ## Data Science Projects 
 
-### [Deep Learning Model for Detection of Malaria from RBC Images.  Part I: EDA](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/a021c5adb71bfac327e102c103356a7a6bcd2559/Optimization%20of%20a%20CNN%20model%20for%20detection%20of%20malaria%20in%20erythrocytes.%20%20Part%20I_Exploratory%20Data%20Analysis%20(1).ipynb) <i style="font-size:0.8em">EDA for Deep Learning</i>
+### [Automatic Detection of Malaria from RBC Images.  Part I: EDA](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/a021c5adb71bfac327e102c103356a7a6bcd2559/Optimization%20of%20a%20CNN%20model%20for%20detection%20of%20malaria%20in%20erythrocytes.%20%20Part%20I_Exploratory%20Data%20Analysis%20(1).ipynb) <i style="font-size:0.8em">EDA for Deep Learning</i>
 Using `Matplotlib`, `Seaborn` and `Keras` I perform EDA on 20,929 color images of erythrocytes used for subsequent model development in the automatic detection of malaria.  
 
-### [Deep Learning Model for Detection of Malaria from RBC Images.  Part II: CNN Model Development](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/b5fdde444e4cc1db08e63ee14804f013f6fd2071/Part%20II_Optimization%20of%20CNN%20model%20for%20automatic%20detection%20of%20malaria.ipynbSubsequently) <i style="font-size:0.8em">Deep Learning Model Development</i> 
+### [Automatic Detection of Malaria from RBC Images.  Part II: CNN Model Development](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/b5fdde444e4cc1db08e63ee14804f013f6fd2071/Part%20II_Optimization%20of%20CNN%20model%20for%20automatic%20detection%20of%20malaria.ipynbSubsequently) <i style="font-size:0.8em">Deep Learning Model Development</i> 
 Using `TensorFlow` and `Keras` I explore 7 different deep learning approaches to develop a convoluted neural network (CNN) model that uses color images of red blood cells to detect malaria with 99% accuracy, 99% precision and 99% recall. `Tensorboard` was used to visualize and compare model performance.
 
 ### [Amazon Stock Forecasting](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/ad1f0adbf8dcf670e4a7a550b551cbde5f0ed41d/Amazon_Stock_Project_Time_Series_PF.ipynb) <i style="font-size:0.8em">Time Series Analysis</i>
