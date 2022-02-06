@@ -9,8 +9,9 @@ these two areas of experience and interest in development of a deep learning mod
 
 ## Data Science Projects 
 
-### [Deep Learning Model Development for Detection of Malaria from RBC Images](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/d9157f96cfab1717976d64b235e258b68638e3bc/Julia_Moffitt_Final_Version_DL_For_Malaria_Detection%20(1).html)<i style="font-size:0.8em"> CNN Model Development</i>  
-Using `Matplotlib`, `Seaborn` and `Keras` I perform EDA on 20,929 color images of erythrocytes used for model development in the automatic detection of malaria.  Subsequently using `TensorFlow` and `Keras` I explore 7 different deep learning approaches to develop a convoluted neural network (CNN) model that uses color images of red blood cells to detect malaria with 99% accuracy, 99% precision and 99% recall. `Tensorboard` was used to visualize and compare model performance.
+### [Deep Learning Model Development for Detection of Malaria from RBC Images. Part I: EDA](Optimization of a CNN model for detection of malaria in erythrocytes.  Part I_Exploratory Data Analysis (1).ipynb)<i style="font-size:0.8em"> CNN Model Development</i>  
+Using `Matplotlib`, `Seaborn` and `Keras` I perform EDA on 20,929 color images of erythrocytes used for model development in the automatic detection of malaria.  
+#### [Part II: CNN Model Development](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/b5fdde444e4cc1db08e63ee14804f013f6fd2071/Part%20II_Optimization%20of%20CNN%20model%20for%20automatic%20detection%20of%20malaria.ipynbSubsequently) using `TensorFlow` and `Keras` I explore 7 different deep learning approaches to develop a convoluted neural network (CNN) model that uses color images of red blood cells to detect malaria with 99% accuracy, 99% precision and 99% recall. `Tensorboard` was used to visualize and compare model performance.
 
 ### [Amazon Stock Forecasting](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/ad1f0adbf8dcf670e4a7a550b551cbde5f0ed41d/Amazon_Stock_Project_Time_Series_PF.ipynb) <i style="font-size:0.8em">Time Series Analysis</i>
 Using `sklearn`, `pandas`, `numpy`, and `statsmodels`, I train
