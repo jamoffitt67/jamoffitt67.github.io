@@ -16,7 +16,7 @@ Using `Matplotlib`, `Seaborn` and `Keras` I perform **Exploratory Data Analysis 
 ![Tensorboard visualization](Picture1.png)
 
 ### [Automatic Detection of Malaria from RBC Images.  Part II: CNN Model Development](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/b5fdde444e4cc1db08e63ee14804f013f6fd2071/Part%20II_Optimization%20of%20CNN%20model%20for%20automatic%20detection%20of%20malaria.ipynbSubsequently) <i style="font-size:0.8em">Deep Learning Model Development</i> 
-Using `TensorFlow` and `Keras` I explore 7 different deep learning approaches to develop a **convolutional neural network (CNN)** model that uses color images of red blood cells to detect malaria with 99% accuracy, 99% precision and 99% recall. `Tensorboard` was used to visualize and compare model performance.
+Using `TensorFlow` and `Keras` I explore 7 different deep learning approaches to develop a **Convolutional Neural Network (CNN)** model that uses color images of red blood cells to detect malaria with 99% accuracy, 99% precision and 99% recall. `Tensorboard` was used to visualize and compare model performance.
 
 ### [Amazon Stock Forecasting](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/ad1f0adbf8dcf670e4a7a550b551cbde5f0ed41d/Amazon_Stock_Project_Time_Series_PF.ipynb) <i style="font-size:0.8em">Time Series Analysis</i>
 Using `sklearn`, `pandas`, `numpy`, and `statsmodels`, I train
