@@ -52,7 +52,7 @@ algorithm** to identify potential hotel reservation cancellations
 ahead of time.
 
 ### [Fuel Economy of Early Model Automobiles](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/668415aa6991a606b6be1dfb3ca4f5193e4477ba/PCA_tSNE_MPG_explore_PF.ipynb) <i style="font-size:0.8em">Similarity Measures</i>
-Using **principle component analysis (PCA)**, **t-distributed stochastic neighbor embedding (t-SNE)** and
+Using **principal component analysis (PCA)**, **t-distributed stochastic neighbor embedding (t-SNE)** and
 **k-nearest neighbor (KNN)** algorithms, I investigate the
 relationships between fuel economy, engine displacement, horsepower,
 and other variables of interest in early model automobiles.
