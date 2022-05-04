@@ -6,7 +6,7 @@ The following portfolio includes a compilation of writing samples, research publ
 
 ## Writing Samples
 
-### [Editorial Focus:role for neural growth factor in autonomically driven arrhythmogenesis? Focus on: “Structural neuroplasticity following T5 spinalcord transection: increased cardiac sympathetic innervation density and SPNarborization”](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/5d7438652e2e08a79966cc3d0b90420c5b503372/ajpregu.00524.2010.pdf) <i style="font-size:0.8em">Editorial Focus Writing Sample</i> 
+### [Editorial Focus: role for neural growth factor in autonomically driven arrhythmogenesis? Focus on: “Structural neuroplasticity following T5 spinal cord transection: increased cardiac sympathetic innervation density and SPN arborization”](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/5d7438652e2e08a79966cc3d0b90420c5b503372/ajpregu.00524.2010.pdf) <i style="font-size:0.8em">Editorial Focus Writing Sample</i> 
 I was asked to review a manuscript, and during subesequent publication, the editor asked me to write an editorial focus to accompay the publication.  The link to this short editorial focus provides a good example of my scientific writing style. I was delighted to have the opportunity to introduce the paper and provide some context for the data to the scientific community.
 
 ### [Capillary Circulation:  A reading guide for first-year medical and physician assistant students](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/5d7438652e2e08a79966cc3d0b90420c5b503372/Capillary%20Circulation%20Handout.pdf) <i style="font-size:0.8em">Educational Content Writing Sample</i> 
