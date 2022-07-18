@@ -85,7 +85,7 @@ and other variables of interest in early model automobiles.
 - *Investigating pacing behavior in ultramarathon distance running* ([Abstract](https://journals.lww.com/acsm-msse/Fulltext/2021/08001/Women_Pace_Better_Than_Men_In_A_100_mile_Distance.108.aspx), [e-Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/0805888d0e508bc704e7452c6fb738d92110e5fd/ACSM%20Conference%20Poster%20FINAL%202021.pdf))
 - *Effects of endurance training on reducing cardiac arrhythmic risk* ([Abstract](https://journals.lww.com/acsm-msse/Fulltext/2014/05001/Exercise_Training_Results_in_Reduced_Arrhythmic.2024.aspx), [Poster](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/d5afde8a79ee271431fb3bdc76443fdfc5bea512/ACSM%202014%20Poster.pdf))
 
-## [Full Curriculum Vitae](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/672a32af6b2ffd85bac03411726a87a25915b26e/JuliaAMoffittCV%20Current%202.5.22.pdf)
+## [Full Curriculum Vitae](https://github.com/jamoffitt67/jamoffitt67.github.io/blob/f56a814e1d52385575b61e309ce385d10b90feec/JuliaAMoffittCV%20CurrentRedact%207.18.22.pdf)
 
 
 ## Contact Information
